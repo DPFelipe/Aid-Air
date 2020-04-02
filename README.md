@@ -1,5 +1,5 @@
 # Aid-Air
 A school project - contibutor
-RomecMartin Felix Mendoza
+Rome Martin Felix Mendoza
 Ross Daniel Galang
 Hussel Macaspac
